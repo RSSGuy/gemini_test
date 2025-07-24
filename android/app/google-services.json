@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920527254707",
+    "project_id": "mapper-b6ecb",
+    "storage_bucket": "mapper-b6ecb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920527254707:android:8776b839088ed9fcbeacc6",
+        "android_client_info": {
+          "package_name": "com.example.gemini_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAluMQWYf0v3u44mXmj8SI12zgI20ePzfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
